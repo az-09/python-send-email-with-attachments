@@ -1,1 +1,1 @@
-- Source code for https://www.taeheechoi.com/posts/python-send-%20an-email-with-attachments
+- Source for [Python-send-an-email-with-attchments](https://www.taeheechoi.com/posts/python-send-%20an-email-with-attachments)
